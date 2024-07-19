@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "sonarcloud.api.measures.url",
+    "type": "java.lang.String",
+    "description": "A description for 'sonarcloud.api.measures.url'"
+  },
+  {
+    "name": "sonarcloud.api.commit.hash.url",
+    "type": "java.lang.String",
+    "description": "A description for 'sonarcloud.api.commit.hash.url'"
+  },
+  {
+    "name": "github.api.commit.diff.url",
+    "type": "java.lang.String",
+    "description": "A description for 'github.api.commit.diff.url'"
+  },
+  {
+    "name": "sonarcloud.token",
+    "type": "java.lang.String",
+    "description": "A description for 'sonarcloud.token'"
+  },
+  {
+    "name": "analytics.url",
+    "type": "java.lang.String",
+    "description": "A description for 'analytics.url'"
+  },
+  {
+    "name": "bitbucket.username",
+    "type": "java.lang.String",
+    "description": "A description for 'bitbucket.username'"
+  },
+  {
+    "name": "bitbucket.app.password",
+    "type": "java.lang.String",
+    "description": "A description for 'bitbucket.app.password'"
+  },
+  {
+    "name": "bitbucket.api.commit.diff.url",
+    "type": "java.lang.String",
+    "description": "A description for 'bitbucket.api.commit.diff.url'"
+  },
+  {
+    "name": "sonarcloud.username",
+    "type": "java.lang.String",
+    "description": "A description for 'sonarcloud.username'"
+  },
+  {
+    "name": "sonarcloud.password",
+    "type": "java.lang.String",
+    "description": "A description for 'sonarcloud.password'"
+  },
+  {
+    "name": "complexity.url",
+    "type": "java.lang.String",
+    "description": "A description for 'complexity.url'"
+  }
+]}
